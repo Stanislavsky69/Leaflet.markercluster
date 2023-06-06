@@ -2,6 +2,10 @@
 
 (part of repo mgmt responsibilities transferred to [@ykzeng](https://github.com/ykzeng))
 
+## 2.0.0 (2022-06-07)
+
+- Added compatibility with the latest version leaflet 
+
 ## 1.5.4 (2021-10-18)
 
 ### Bugfixes
