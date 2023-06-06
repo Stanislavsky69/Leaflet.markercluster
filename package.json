@@ -1,7 +1,7 @@
 {
 	"name": "leaflet.markercluster.compatible",
 	"repository": "https://github.com/Stanislavsky69/Leaflet.markercluster",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "This is a fork of the project leaflet.markercluster. Compatible with last version of leaflet.",
 	"author": {
 		"url": "https://github.com/Stanislavsky69",
